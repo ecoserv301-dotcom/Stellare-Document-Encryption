@@ -1,1 +1,0 @@
-# Stellare-Document-Encryption
